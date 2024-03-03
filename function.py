@@ -17,3 +17,6 @@ if final_price == original_price:
     print("No discount applied. Final price:", final_price)
 else:
     print("Final price after applying discount:", final_price)
+
+
+ 
